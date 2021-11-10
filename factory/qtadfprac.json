@@ -1,0 +1,9 @@
+{
+	"name": "qtadfprac",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "243be6e0-4c66-4579-b66e-3c15bbe6d06f",
+		"tenantId": "00356b28-957d-4bad-98e0-95841ecdcc6a"
+	}
+}
