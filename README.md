@@ -1,0 +1,2 @@
+# omicloudrepository
+azure practice
